@@ -39,8 +39,8 @@ This is a simple web application that allows users to check the current weather 
 ## Links
 
 - [GitHub Repository](https://github.com/Antonella94duarte/myWeatherApp)
-- [Live Demo](https://weather-she-codes.netlify.app/)
+- [Live Demo](https://weather-antrox.netlify.app/)
 
 ## Credits
 
-This project was created by [Antrox Duarte](https://github.com/Antonella94duarte) and is [available on GitHub](https://github.com/Antonella94duarte/myWeatherApp). It is hosted on [Netlify](https://weather-she-codes.netlify.app/).
+This project was created by [Antrox Duarte](https://github.com/Antonella94duarte) and is [available on GitHub](https://github.com/Antonella94duarte/myWeatherApp). It is hosted on [Netlify](https://weather-antrox.netlify.app/).
